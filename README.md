@@ -2,6 +2,8 @@
 
 This is Group-White's final project for DSO 560. 
 
+Group Members: Xinde Huang, Chiayi Lin, Liang Chi Liu, Jessica Xu, Zijian Yan
+
 The business that we investigate in is Tinder (the dating app) 
 
 The business problems that we worked on are following: 
