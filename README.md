@@ -14,9 +14,5 @@ Link to our data: https://www.kaggle.com/datasets/shivkumarganesh/tinder-google-
 
 Please let us know if there are any questions or feedbacks! We can be reached through slack or the following email addresses: 
 
-hxu577@usc.edu
-xindehua@usc.edu
-clin9985@usc.edu
-lliu4737@usc.edu
-zijiany@usc.edu
+hxu577@usc.edu, xindehua@usc.edu, clin9985@usc.edu, lliu4737@usc.edu, zijiany@usc.edu
 
